@@ -12,7 +12,7 @@ Este módulo permite desplegar recursos de almacenamiento en AWS utilizando Terr
 
 # Recursos Implementados
 
-- S3 Bucket
+- AWS S3 Bucket reutilizable
 
 ---
 
